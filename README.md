@@ -1,6 +1,6 @@
 Introduction
 
-Welcome to the Shop System project! This project is developed as part of a Data Structures course and aims to simulate a shop system with specific functionalities. The system allows customers to make purchases, manage product quantities, and track income and order history. The project is implemented as a console application in C#. Let's explore the key features and functionalities of this Shop System.
+Welcome to the Shop System project! This project is developed as part of a Data Structures course and aims to simulate a shop system with specific functionalities. The system allows customers to make purchases, manage product quantities, and track income and order history. The project is implemented as a console application in C++. Let's explore the key features and functionalities of this Shop System.
 Features
 
     Buy Function: This function allows a customer to make a purchase by providing their customer ID and product ID. The system checks if the customer is already in the list of customers. If not, the customer is added to the list and written to a file. The system then checks the quantity of the product and creates a new product node if available. The product node is attached to a list and written to a new file.
